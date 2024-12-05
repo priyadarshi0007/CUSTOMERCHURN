@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "~/python-venvs/rag/bin/python",
+    "python.terminal.activateEnvironment": true
+}
