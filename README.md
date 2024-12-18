@@ -66,3 +66,5 @@ Such targeted, data-driven offers improve customer retention rates and reduce ch
 ---
 
 This feature adds a personalized and intelligent dimension to customer retention, making it a core component of the Customer Churn Prediction project.
+
+
